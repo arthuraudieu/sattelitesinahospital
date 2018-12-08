@@ -1,0 +1,33 @@
+#kdenlive {border-style: dotted;
+            border-width:1px; }
+#menu_::first-letter {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 200%;
+    color: #8A2BE2;
+}
+#albumname_, td {color: whitesmoke}
+#panel, #mainbanner, td {
+    padding: 50px;
+    text-align: center;
+    background-color: black;
+    background-image: radial-gradient(green, black);
+    border: solid 3px #c3c3c3;
+}
+
+#panel {
+    margin-top: 50px;   
+    padding: 50px;
+    display: none;
+}
+th.basiclinks, 
+        th.basicrechts {
+    border: 2px solid red;
+    border-radius: 12px;
+}
+/* background opmaak, selected by id */
+
+#emission_ {background-color:fuchsia;}
+
+#albumname_ {    text-shadow: 0px 0px 1px #000000;
+
+    text-shadow: 0px 0px 10px #FF0000;}
