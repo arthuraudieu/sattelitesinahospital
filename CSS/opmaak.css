@@ -5,7 +5,7 @@
     font-size: 200%;
     color: #8A2BE2;
 }
-#albumname_, td {color: whitesmoke}
+#albumname_, td {color: lime}
 #panel, #mainbanner, td {
     padding: 50px;
     text-align: center;
